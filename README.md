@@ -9,6 +9,12 @@ M=Slope Of Line And C= Intercept.
 
 The Main Target For Linear Regression To Find The Best Value For X And Y.
 
+<img src="data/Image 1.jpg" height="240" >
+
+
+<img src="data/Image 2.jpg" height="240" >
+
+
 
 
 
