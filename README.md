@@ -1,4 +1,4 @@
-# Salary Prediction-Using Machine Learning
+# Salary Prediction Using Machine Learning
 
 A simple salary prediction machine learning model, based on linear regression. It requires a dataset with two points, which is used for training. 
 
